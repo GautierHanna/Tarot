@@ -1,4 +1,4 @@
-# French Tarot
+# French Tarot (code in french)
 
 Here, my goal is to create a Tarot's game from scratch.
 
